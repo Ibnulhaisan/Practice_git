@@ -17,7 +17,7 @@
 
 <body>
 
-<div class="highArea">
+<div class="highArea"><br>
     @csrf
 
 
