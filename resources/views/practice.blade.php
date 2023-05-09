@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -16,16 +17,36 @@
 </head>
 
 <body>
-
+{{-- I can go class name modified--}}
+{{-- I do @csrf added--}}
+<<<<<<< HEAD
 <div class="highArea">
     @csrf
-
-
     <div class="h-75 bg-danger w-75">height 75%</div>
     <div class="h-100 bg-warning w-100">height 100%</div>
     <div class="h-auto bg-primary w-auto" style="color: white;">height auto</div>
 </div>
-
+<div class="highArea23">
+    @csrf
+    <div class="h-75 bg-danger w-75">height 75%</div>
+    <div class="h-100 bg-warning w-100">height 100%</div>
+    <div class="h-auto bg-primary w-auto" style="color: white;">height auto</div>
+</div>
+=======
+{{--<div class="highArea">--}}
+{{--    @csrf--}}
+{{--    <div class="h-75 bg-danger w-75">height 75%</div>--}}
+{{--    <div class="h-100 bg-warning w-100">height 100%</div>--}}
+{{--    <div class="h-auto bg-primary w-auto" style="color: white;">height auto</div>--}}
+{{--</div>--}}
+{{--<div class="highArea12345678">--}}
+{{--    <div class="h-75 bg-danger w-75">height 75%</div>--}}
+{{--    <div class="h-100 bg-warning w-100">height 100%</div>--}}
+{{--    <div class="h-auto bg-primary w-auto" style="color: white;">height auto</div>--}}
+{{--</div>--}}
+>>>>>>> af207abf67bdb5f17c1c47c8cbb8b67f652f07c6
+{{-- I do script added--}}
+{{-- I do html added--}}
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
 
 </body>
