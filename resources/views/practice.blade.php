@@ -18,10 +18,9 @@
 
 <body>
 {{-- I can go class name modified--}}
+{{-- I do @csrf added--}}
 <div class="highArea">
     @csrf
-
-
     <div class="h-75 bg-danger w-75">height 75%</div>
     <div class="h-100 bg-warning w-100">height 100%</div>
     <div class="h-auto bg-primary w-auto" style="color: white;">height auto</div>
