@@ -13,6 +13,7 @@
     <h2>where are you going?</h2>
     <h2>who are you?</h2>
     <h2>when are you going?</h2>
+    <h2>Everything is fine</h2>
 
     <style>
         .highArea{
