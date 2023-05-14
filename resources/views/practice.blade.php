@@ -16,7 +16,7 @@
 </head>
 
 <body>
-
+<h1>Everything is here</h1>
 <div class="highArea">
     @csrf
 
