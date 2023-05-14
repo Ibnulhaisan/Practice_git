@@ -20,8 +20,11 @@
 <h2>Everything is going</h2>
 <h1>Everything is there</h1>
 <h1>she is there</h1>
-<h1>she is nothing</h1>
+<h1>she is nothingtoadd</h1>
 
+=======
+<h1>here is there</h1>
+>>>>>>> 2ceefb65cff965db019e5095ee0740a24154495b
 <div class="highArea">
     @csrf
 
